@@ -24,7 +24,7 @@ Hello everyone. I created this repository in order to show animation capabilitie
 
 |   | Sample code  | View animation | Full code |
 |-- | ------------- | ------------- | --------- |
-| 1 | <img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/PhotoAppIOSCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/PhotoAppIOS.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/IconsAnimations/PhotoAppIOS.swift)|
+| 1 | <img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/IconsAnimations/PhotoAppIOS/PhotoAppIOSCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/IconsAnimations/PhotoAppIOS/PhotoAppIOS.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/IconsAnimations/PhotoAppIOS/PhotoAppIOS.swift)|
 
 # Liked the project?
 Tap to star ⭐️ and spread the word!
