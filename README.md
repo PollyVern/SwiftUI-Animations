@@ -18,7 +18,7 @@ Hello everyone. I created this repository in order to show animation capabilitie
 # SwiftUI Alerts
 |   | Sample code  | View animation | Full code |
 |-- | ------------- | ------------- | --------- |
-| 1 | <img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/AlertSheetCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/AlertSheetAnimation.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/AlertAnimations/AlertSheet.swift)|
+| 1 | <img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/AlertAnimations/AlertSheet/AlertSheetCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/AlertAnimations/AlertSheet/AlertSheet.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/AlertAnimations/AlertSheet/AlertSheet.swift)|
 
 # SwiftUI Icons
 
