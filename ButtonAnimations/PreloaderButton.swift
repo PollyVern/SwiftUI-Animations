@@ -86,6 +86,7 @@ struct PreloaderButton: View {
                 .frame(height: buttonSize)
             }
             .padding([.leading, .trailing], 30)
+            .disabled(isShowCheckmark)
         }
 
     }
