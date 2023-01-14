@@ -11,7 +11,7 @@ Hello everyone. I created this repository in order to show animation capabilitie
 
 |   | Sample code  | View animation | Full code |
 |-- | ------------- | ------------- | --------- |
-| 1 | <img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/SliderButtonSampleCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/SliderButton.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/ButtonAnimations/SliderButton.swift)|
+| 1 | <img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/ButtonAnimations/SliderButton/SliderButtonSampleCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/SwiftUI-Animations/blob/main/ButtonAnimations/SliderButton/SliderButton.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/ButtonAnimations/SliderButton/SliderButton.swift)|
 | 2 | <img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/PreloaderButtonCode.png" height="400" width="400">  |<img src="https://github.com/PollyVern/ContentForRepositories/blob/main/SwiftUIAnimations/PreloaderButtonAnimation.gif" height="400" width="180">|[Link for Code](https://github.com/PollyVern/SwiftUI-Animations/blob/main/ButtonAnimations/PreloaderButton.swift)|
 
 
